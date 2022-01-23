@@ -1,3 +1,3 @@
 # meme-gallery
 
-An interactive image gallery built with HTML, CSS, and JavaScript.
+An interactive HTML, CSS, and JavaScript app.
